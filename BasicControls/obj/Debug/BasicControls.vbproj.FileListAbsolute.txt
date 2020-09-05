@@ -1,0 +1,11 @@
+C:\Users\MIS\Desktop\BasicControls\BasicControls\bin\Debug\BasicControls.exe.config
+C:\Users\MIS\Desktop\BasicControls\BasicControls\bin\Debug\BasicControls.exe
+C:\Users\MIS\Desktop\BasicControls\BasicControls\bin\Debug\BasicControls.pdb
+C:\Users\MIS\Desktop\BasicControls\BasicControls\bin\Debug\BasicControls.xml
+C:\Users\MIS\Desktop\BasicControls\BasicControls\obj\Debug\BasicControls.vbprojResolveAssemblyReference.cache
+C:\Users\MIS\Desktop\BasicControls\BasicControls\obj\Debug\BasicControls.Form1.resources
+C:\Users\MIS\Desktop\BasicControls\BasicControls\obj\Debug\BasicControls.Resources.resources
+C:\Users\MIS\Desktop\BasicControls\BasicControls\obj\Debug\BasicControls.vbproj.GenerateResource.Cache
+C:\Users\MIS\Desktop\BasicControls\BasicControls\obj\Debug\BasicControls.exe
+C:\Users\MIS\Desktop\BasicControls\BasicControls\obj\Debug\BasicControls.xml
+C:\Users\MIS\Desktop\BasicControls\BasicControls\obj\Debug\BasicControls.pdb
